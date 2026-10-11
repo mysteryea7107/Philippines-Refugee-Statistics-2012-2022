@@ -43,4 +43,4 @@ Combo Chart: Dual-axis visualization comparing yearly trends from $2012$ to $202
 
 Primary Dataset: Pagaduan, O. (n.d.). Philippines refugee statistics 2012–2022 [Data set]. Kaggle.
 
-Methodology Inspiration: Mohamed Ahmed, A. (n.d.). Canada refugee stats EDA. GitHub. Link
+Methodology Inspiration: Mohamed Ahmed, A. (n.d.). Canada refugee stats EDA. GitHub.
